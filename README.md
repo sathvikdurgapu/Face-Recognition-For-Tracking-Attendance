@@ -41,3 +41,25 @@ The function to calculate the overall percentage of the particular course or stu
 #### Email
 
 The Teacher can send email for the attendance marked to all the parents as well as students by selecting class and clicking on send mail button.
+
+### Sample Outputs
+
+![image](https://user-images.githubusercontent.com/77880068/170860547-1d09c0a3-e428-4fd7-af4f-03ea1f6e1a3d.png)
+
+![image](https://user-images.githubusercontent.com/77880068/170860584-0931ee96-cc1b-4f73-b84d-fa301fc3b120.png)
+
+![image](https://user-images.githubusercontent.com/77880068/170860764-1b4d1028-e898-4408-a31d-5a800befeeb6.png)
+
+![image](https://user-images.githubusercontent.com/77880068/170860790-c89973c3-330e-4e8c-bf72-b05083cc88d3.png)
+
+![image](https://user-images.githubusercontent.com/77880068/170860802-5da88d55-de4e-4fb2-b90a-d16d31e22271.png)
+
+![image](https://user-images.githubusercontent.com/77880068/170860981-8c2f1301-2398-422a-bee4-6b38e4a56b3f.png)
+
+![image](https://user-images.githubusercontent.com/77880068/170861088-4410773c-2564-4d83-9f88-67856b44aad1.png)
+
+![image](https://user-images.githubusercontent.com/77880068/170861107-da0e5e0f-4e0d-461e-947c-299f8c51ab1a.png)
+
+#### Future Plan
+
+The future plan is to develop the mobile application of this and to improve the recognition rate when there are unintenional changes in a person like using scarf, beard. Addition of student details and model generation for all students will be done in single trigger by storing and uploading the details in an excel sheet.  
